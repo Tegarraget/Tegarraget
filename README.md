@@ -1,4 +1,4 @@
-## Hi there 👋
+## waaweewoooo 👋
 [README.md](https://github.com/user-attachments/files/16706851/README.md)<h1 align="center">Hi 👋, My Name Is Tegar</h1>
 <h3 align="center">A web developer from Indonesia</h3>
 
